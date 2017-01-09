@@ -1,2 +1,4 @@
 name: ZS Consulting Ltd
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
